@@ -2553,7 +2553,7 @@
         "date": "2024-03-21T18:27:11.898188-04:00",
         "url": "https://github.com/stevekm/nf-niceutils/releases/download/0.0.1/nf-niceutils-0.0.1.zip",
         "requires": ">=22.10.0",
-        "sha512sum": "a04f1b383b228313e8f282b5fccd7c3f27476885278e3cb8871954b4815f62b77736ddc60792a91128b2aa5ea70318aef41140aac226f8fb913dc59eeaaba3a4"
+        "sha512sum": "8079463cf9aa1995240c70c9c4e12d5060c1820c266f91858ac0b7cec51779f0ae6ee6ce572a9320ddbdcdd5da2792f6c09445e66913b6e6b112931606b58634"
       }
     ]
   }
